@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Shootable
+  - Blue
+  - Red
+  - Gamer
+  - Canvas
+  - Fireball
   layers:
   - Default
   - TransparentFX
@@ -17,7 +21,7 @@ TagManager:
   - Lighting
   - Ground
   - Postprocessing
-  - 
+  - Fence
   - 
   - 
   - 
